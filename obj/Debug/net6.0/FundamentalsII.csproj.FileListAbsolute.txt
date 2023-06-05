@@ -1,0 +1,15 @@
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\bin\Debug\net6.0\FundamentalsII.exe
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\bin\Debug\net6.0\FundamentalsII.deps.json
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\bin\Debug\net6.0\FundamentalsII.runtimeconfig.json
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\bin\Debug\net6.0\FundamentalsII.dll
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\bin\Debug\net6.0\FundamentalsII.pdb
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.csproj.AssemblyReference.cache
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.AssemblyInfoInputs.cache
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.AssemblyInfo.cs
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.csproj.CoreCompileInputs.cache
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.dll
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\refint\FundamentalsII.dll
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.pdb
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\FundamentalsII.genruntimeconfig.cache
+C:\Users\themo\OneDrive\Documents\Coding Dojo Stuffs\CSharp\FundamentalsII\obj\Debug\net6.0\ref\FundamentalsII.dll
